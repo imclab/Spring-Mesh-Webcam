@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E321B013-42EA-4397-9E33-4E587FCB3120</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Spring_Mesh_Webcam</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4971FFAA-60C2-44B6-860B-84CBB2393B8A</key>
+		<string>https://github.com/terrybroad/Spring-Mesh-Webcam.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Spring_Mesh_Webcam.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4971FFAA-60C2-44B6-860B-84CBB2393B8A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/terrybroad/Spring-Mesh-Webcam.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4971FFAA-60C2-44B6-860B-84CBB2393B8A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4971FFAA-60C2-44B6-860B-84CBB2393B8A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Spring-Mesh-Webcam</string>
+		</dict>
+	</array>
+</dict>
+</plist>
